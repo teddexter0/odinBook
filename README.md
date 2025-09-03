@@ -1,8 +1,6 @@
 # 🚀 Odin-Book
 
-A modern, full-stack social media application built with React and Node.js. Share your thoughts, discover new people, and connect with the community!
-
-![Odin-Book Banner](https://via.placeholder.com/800x200/667eea/ffffff?text=🚀+Odin-Book)
+A modern, full-stack social media application built with React and Node.js. Share your thoughts, discover new people, and connect with the community! 
 
 ## ✨ Features
 
@@ -60,7 +58,7 @@ A modern, full-stack social media application built with React and Node.js. Shar
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/sod/odinBook.git
+   git clone https://github.com/teddexter0/odinBook
    cd odinBook
    ```
 
